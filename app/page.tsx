@@ -416,9 +416,9 @@ export default function Portfolio() {
                         {[
                           { name: "HTML & CSS", level: 95 },
                           { name: "JavaScript", level: 90 },
-                          { name: "React", level: 85 },
-                          { name: "Next.js", level: 80 },
-                          { name: "Tailwind CSS", level: 90 },
+                          { name: "React", level: 65 },
+                          { name: "Next.js", level: 50 },
+                          { name: "Tailwind CSS", level: 80 },
                         ].map((skill) => (
                           <div key={skill.name} className="space-y-2">
                             <div className="flex justify-between">
@@ -444,10 +444,10 @@ export default function Portfolio() {
                       <div className="grid gap-4">
                         {[
                           { name: "Node.js", level: 75 },
-                          { name: "TypeScript", level: 80 },
+                          { name: "TypeScript", level: 50 },
                           { name: "Git", level: 85 },
                           { name: "RESTful APIs", level: 85 },
-                          { name: "GraphQL", level: 70 },
+                          { name: "GraphQL", level: 60 },
                         ].map((skill) => (
                           <div key={skill.name} className="space-y-2">
                             <div className="flex justify-between">
