@@ -181,7 +181,7 @@ export default function Portfolio() {
             </Link>
           </Button>
           <Button variant="ghost" size="icon" asChild className="text-white hover:text-white/80 hover:bg-white/10">
-            <Link href="mailto:mustafa.jawad27.10gmail.com">
+            <Link href="mailto:mustafa.jawad27.10@gmail.com">
               <Mail className="h-5 w-5" />
               <span className="sr-only">Email</span>
             </Link>
@@ -475,7 +475,7 @@ export default function Portfolio() {
                           <p className="text-sm text-gray-300">mustafa.jawad27.10gmail.com</p>
                         </div>
                         <Button variant="ghost" size="sm" className="ml-auto text-white hover:bg-white/10" asChild>
-                          <Link href="mailto:mustafa.jawad27.10gmail.com">Send</Link>
+                          <Link href="mailto:mustafa.jawad27.10@gmail.com">Send</Link>
                         </Button>
                       </CardContent>
                     </Card>
